@@ -1,1 +1,1 @@
-# github.io
+# CGU for GooglePlay GPX Sailing waypoints
